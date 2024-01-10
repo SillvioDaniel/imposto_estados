@@ -18,9 +18,9 @@
 [Notebook](imposto.ipynb)
 
 ## Impostos
-<img src="img/impostos.png" alt="drawing" width="100px"/>
+<img src="img/impostos.png" alt="imposto" />
 
 
 
 ## Despesas
-<img src="img/despesas.png" alt="drawing" width="100px"/>
+<img src="img/despesas.png" alt="despesa" />
