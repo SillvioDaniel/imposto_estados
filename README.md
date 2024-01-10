@@ -17,10 +17,10 @@
 
 [Notebook](imposto.ipynb)
 
-#### Impostos
-![Impostos por estado](img/impostos.png "Impostos por estado")   ![Impostos por região](img/impostos.jpg "Impostos por estado")       
+## Impostos
+<img src="img/impostos.png" alt="drawing" width="100px"/>
 
 
 
-#### Despesas
-![Despesas por estado](img/despesas.png "Impostos por estado")   ![Despesas por região](img/despesas.jpg "Impostos por estado") 
+## Despesas
+<img src="img/despesas.png" alt="drawing" width="100px"/>
